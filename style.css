@@ -1,0 +1,12 @@
+[type="button"]{
+    color: rgb(192, 135, 31);
+    font-size: 30px;
+}
+
+.judul{
+    color: black !important;
+}
+
+#judul{
+    color: red;
+}
